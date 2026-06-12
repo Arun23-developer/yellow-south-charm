@@ -78,7 +78,7 @@ function Landing() {
               M
             </span>
             <span className="font-display text-xl tracking-wide">
-              Manjal
+              Manjal Hotels & Restaurant
             </span>
           </a>
           <ul className="hidden items-center gap-9 lg:flex">
@@ -154,7 +154,7 @@ function Landing() {
             className="animate-fade-up mt-6 max-w-4xl font-display text-5xl font-semibold leading-[1.05] text-white sm:text-6xl lg:text-8xl"
             style={{ animationDelay: "120ms" }}
           >
-            Welcome to <span className="text-gold italic">Manjal</span>
+            Welcome to <span className="text-gold italic">Manjal Hotels and Restaurant</span>
           </h1>
           <p
             className="animate-fade-up mt-7 max-w-2xl text-base leading-relaxed text-white/80 sm:text-lg"
@@ -303,7 +303,7 @@ function Landing() {
                 <Images className="mr-2 inline h-4 w-4" /> Gallery
               </span>
               <h2 className="mt-3 font-display text-4xl text-ink sm:text-5xl">
-                A Taste of <em className="text-gold not-italic">Manjal</em>
+                A Taste of <em className="text-gold not-italic">Manjal Hotels and Restaurant</em>
               </h2>
             </div>
             <p className="max-w-md text-muted-foreground">
@@ -357,7 +357,7 @@ function Landing() {
             </h2>
             <p className="mt-6 max-w-lg text-white/75">
               Our rooms blend modern luxury with the warmth of home — premium
-              linen, calming light, marble bathrooms, and the legendary Manjal
+              linen, calming light, marble bathrooms, and the legendary Manjal Hotels and Restaurant
               breakfast waiting downstairs.
             </p>
             <div className="mt-8 grid grid-cols-3 gap-4 max-w-md">
@@ -508,7 +508,7 @@ function Landing() {
           <Reveal delay={150}>
             <div className="relative overflow-hidden rounded-3xl border border-border shadow-elegant">
               <iframe
-                title="Manjal Location"
+                title="Manjal Hotels and Restaurant Location"
                 src="https://www.openstreetmap.org/export/embed.html?bbox=79.83%2C6.91%2C79.87%2C6.94&layer=mapnik"
                 className="h-[460px] w-full"
                 loading="lazy"
@@ -535,7 +535,7 @@ function Landing() {
               premium comfort?
             </h2>
             <p className="mx-auto mt-6 max-w-xl text-white/70">
-              Reserve a table or prebook your stay — and let Manjal welcome you
+              Reserve a table or prebook your stay — and let Manjal Hotels and Restaurant welcome you
               with the warmth of South India.
             </p>
             <div className="mt-10 flex flex-wrap justify-center gap-4">
